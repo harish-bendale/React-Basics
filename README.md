@@ -10,3 +10,7 @@ Command to create react app :- npm create react-app folder_name
 npm install
 <break/>
 To run :- npm run start
+
+In React Tag name , File name , Function name , Component name should start with capital letter
+
+In jsx img tag is closing tag , it is not in HTML
